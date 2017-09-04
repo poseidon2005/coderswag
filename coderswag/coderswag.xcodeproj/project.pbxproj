@@ -19,6 +19,7 @@
 		3EC79A101F5C24D6007E3E71 /* DataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EC79A0F1F5C24D6007E3E71 /* DataService.swift */; };
 		3EC79A121F5CEE9C007E3E71 /* ProductCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EC79A111F5CEE9C007E3E71 /* ProductCell.swift */; };
 		3EC79A141F5CF03A007E3E71 /* Product.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EC79A131F5CF03A007E3E71 /* Product.swift */; };
+		3EC79A161F5CF880007E3E71 /* ProductsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EC79A151F5CF880007E3E71 /* ProductsVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +58,7 @@
 		3EC79A0F1F5C24D6007E3E71 /* DataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataService.swift; sourceTree = "<group>"; };
 		3EC79A111F5CEE9C007E3E71 /* ProductCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductCell.swift; sourceTree = "<group>"; };
 		3EC79A131F5CF03A007E3E71 /* Product.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Product.swift; sourceTree = "<group>"; };
+		3EC79A151F5CF880007E3E71 /* ProductsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductsVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -160,6 +162,7 @@
 			isa = PBXGroup;
 			children = (
 				3EC799DB1F5C16B7007E3E71 /* CategoriesVC.swift */,
+				3EC79A151F5CF880007E3E71 /* ProductsVC.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -306,6 +309,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3EC79A161F5CF880007E3E71 /* ProductsVC.swift in Sources */,
 				3EC799DC1F5C16B7007E3E71 /* CategoriesVC.swift in Sources */,
 				3EC799DA1F5C16B7007E3E71 /* AppDelegate.swift in Sources */,
 				3EC79A0B1F5C1F27007E3E71 /* CategoryCell.swift in Sources */,

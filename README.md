@@ -11,6 +11,9 @@ I followed exactly but went wrong someplace so I'm going back through the lesson
 
 everything is fixed :D moved on to next lesson, somehow I missed some stuff as I was really tired, parsed through the lesson, fixed it found next problem, that was a problem with coder-swag, fixed the bug and now going really well.
 
+##Lesson 04 branch after fixing the previous issues we are now up-to-date
+
+wow, big lesson, app finished, still getting it slowly. able to see how each compartment works for itself and passes required information to another. Still lots to learn.
 
 ###Required assets 
 required assets are in iOS11 reference materials
